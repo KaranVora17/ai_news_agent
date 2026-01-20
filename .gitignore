@@ -1,0 +1,11 @@
+# generated data
+news.db
+index.html
+
+# python noise
+__pycache__/
+*.pyc
+
+# local envs
+.venv/
+
